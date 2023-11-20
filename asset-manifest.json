@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Mathan-blog/static/css/main.145e65bc.css",
+    "main.css": "/Mathan-blog/static/css/main.3709471d.css",
     "main.js": "/Mathan-blog/static/js/main.687d308b.js",
     "static/media/back-image.webp": "/Mathan-blog/static/media/back-image.15b9b8d3c34ae0c585e4.webp",
     "static/media/1.webp": "/Mathan-blog/static/media/1.fb449e24554e6c8ccd38.webp",
     "static/media/2.avif": "/Mathan-blog/static/media/2.ca97b5d4aa9b56695d90.avif",
     "index.html": "/Mathan-blog/index.html",
-    "main.145e65bc.css.map": "/Mathan-blog/static/css/main.145e65bc.css.map",
+    "main.3709471d.css.map": "/Mathan-blog/static/css/main.3709471d.css.map",
     "main.687d308b.js.map": "/Mathan-blog/static/js/main.687d308b.js.map"
   },
   "entrypoints": [
-    "static/css/main.145e65bc.css",
+    "static/css/main.3709471d.css",
     "static/js/main.687d308b.js"
   ]
 }
