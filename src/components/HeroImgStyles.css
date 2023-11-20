@@ -1,0 +1,35 @@
+.back-image {
+    display: flex;
+    width: 100%;
+    height: 500px;
+}
+
+.back-image img {
+    width: 100%;
+    opacity: 0.2;
+}
+
+.hero .hero-contents {
+    height: 500px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero .hero-contents h2,
+.hero .hero-contents p {
+    font-weight: 600;
+} 
+
+.hero .hero-contents h2 {
+    font-size: 2.5rem;
+}
+
+.hero .hero-contents p {
+    font-size: 1.2rem;
+    padding: 0.5rem 2rem;
+}
